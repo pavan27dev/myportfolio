@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pavan27dev/myportfolio.git/static/css/main.d09b3874.css",
+    "main.js": "/pavan27dev/myportfolio.git/static/js/main.155976e2.js",
+    "static/media/img.jpg": "/pavan27dev/myportfolio.git/static/media/img.5bf011c4fad5951616c6.jpg",
+    "static/media/school.jpg": "/pavan27dev/myportfolio.git/static/media/school.6e231d7cd33c285cf138.jpg",
+    "static/media/insurance.jpg": "/pavan27dev/myportfolio.git/static/media/insurance.4ede938eef55aa672255.jpg",
+    "static/media/food.jpg": "/pavan27dev/myportfolio.git/static/media/food.cd43e81fd31d98c70ee3.jpg",
+    "static/media/Project4.jpg": "/pavan27dev/myportfolio.git/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/invoice.jpg": "/pavan27dev/myportfolio.git/static/media/invoice.12a0a00963bde53863dd.jpg",
+    "static/media/Pavan_FSD_Resume.pdf": "/pavan27dev/myportfolio.git/static/media/Pavan_FSD_Resume.52270a09e3dea87bcff5.pdf",
+    "static/media/Jokes Project.jpg": "/pavan27dev/myportfolio.git/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "index.html": "/pavan27dev/myportfolio.git/index.html",
+    "main.d09b3874.css.map": "/pavan27dev/myportfolio.git/static/css/main.d09b3874.css.map",
+    "main.155976e2.js.map": "/pavan27dev/myportfolio.git/static/js/main.155976e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b3874.css",
+    "static/js/main.155976e2.js"
+  ]
+}
