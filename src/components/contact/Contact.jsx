@@ -38,11 +38,13 @@ const Contact = () => {
       <h2>Contact Me</h2>
       <div className="container contact__container">
         <div className="contact__options">
-          <article className="contact__option">
+          <article className="contact__option" style={{ width: 300 }}>
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>v.pavankalyangollapalli@gmail.com</h5>
-            <a href="mailto:mekomerikomg@gmail.com">Send a message</a>
+            <h4>Mobile Number</h4>
+            <h5>7993637003</h5>
+            <a href="mailto:v.pavankalyangollapalli@gmail.com">Send a message</a>
           </article>
         </div>
         <form action='https://formspree.io/f/xrbbwova' method='post'>
@@ -56,6 +58,12 @@ const Contact = () => {
             type="text"
             placeholder="Your Email"
             name="user_email"
+            required
+          />
+          <input
+            type="number"
+            placeholder="Your Mobile Number"
+            name="Mobile"
             required
           />
           <textarea
