@@ -50,6 +50,16 @@ const Portfolio = () => {
       // link: "https://alpha-agency-project.vercel.app/",
       // github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
     },
+    {
+      id: 5,
+      title: "Genocare Scientific Web Site",
+      img: IMG3,
+      description:
+        "Freelancing",
+      // technologies: "Html | CSS | JavaScript | Next Js",
+      link: "https://genocarescientific.com/",
+      github: "https://genocarescientific.com/",
+    },
     // {
     //   id: 5,
     //   title: "Jokes Project with Typescript",
