@@ -6,6 +6,7 @@ import IMG3 from "../../assets/food.jpg";
 import IMG4 from "../../assets/invoice.jpg";
 import IMG5 from "../../assets/Jokes Project.jpg";
 import IMG6 from "../../assets/Project4.jpg";
+import IMG7 from "../../assets/geno.jpg";
 import React from "react";
 
 //Portfolio function
@@ -53,7 +54,7 @@ const Portfolio = () => {
     {
       id: 5,
       title: "Genocare Scientific Web Site",
-      img: IMG3,
+      img: IMG7,
       description:
         "Freelancing",
       // technologies: "Html | CSS | JavaScript | Next Js",
